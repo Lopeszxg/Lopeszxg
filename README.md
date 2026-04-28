@@ -24,7 +24,7 @@ I'm currently studying programming and software engineering, working on personal
 
 ---
 
-###🤖 Linguagens e Tecnologia
+### 🤖 Linguagens e Tecnologia
 
 <img 
     align="left" 
